@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ACV_Atlas_Message</fullName>
+        <categories>R8 - Account Commercial View (Customer Management)</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACV_Atlas_Message</shortDescription>
+        <value>This is the current snapshot of the Account&apos;s financials. If the Remaining Credit Available or Total Credit Limit is too low, contact your country credit manager.</value>
+    </labels>
+    <labels>
+        <fullName>ACV_Atlas_OpenDisputes</fullName>
+        <categories>R8 - Account Commercial View (Customer Management)</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACV_Atlas_OpenDisputes</shortDescription>
+        <value>https://xe-s-splgl02p.xe.abb.com:50001/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fcom.abb.de.folder.AIM_ABB!2fcom.abb.de.folder.AIM_Content!2fSALESFORCE!2fcom.abb.de.folder.iView!2fcom.abb.de.folder.BO_Document_Viewer!2fcom.abb.de.iview.DS_SF_OPEN_DISP?guid=</value>
+    </labels>
+</CustomLabels>
