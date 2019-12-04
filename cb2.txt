@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <labels>
+
+        <fullName>OpportunityEditAccessError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You don&apos;t have the edit permission on the opportunity record.</shortDescription>
+        <value>You don&apos;t have the edit permission on the opportunity record.</value>
+    </labels>
+     <labels>
+        <fullName>Business_Plan_Impact_Default_Value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Business Plan Impact Default Value</shortDescription>
+        <value>Strongly recommended to have business plan with all partners published in www.abb.com</value>
+    </labels>
+</CustomLabels>
